@@ -1,4 +1,4 @@
-# **These tasks is given by The Sparks Foundation**<br/>
+# **These tasks are given by The Sparks Foundation**<br/>
 ## **Task : 1 (Prediction using Supervised Machine learning)**<br/>
 > **Project is based on Supervised Machine Learning (Linear regression)**<br/>
 > **Task definition : Predict the percentage of a student based on the number of study hours.**<br/>
