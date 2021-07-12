@@ -11,4 +11,4 @@
 
 ## **Task : 3 (Exploratory Data Analysis - Retail)**<br/>
 > **Task definition : Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'**<br/>
-> **You can find dataset for task-1 : [Task-3 data](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)**
+> **You can find dataset for task-3 : [Task-3 data](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)**
